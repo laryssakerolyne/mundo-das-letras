@@ -1,8 +1,11 @@
 h1{
     text-align: center;
-    text-decoration-color: blue;
+    color: #271ae3;
 }
 h2{
     text-align: center;
-    text-decoration: rgb(28, 28, 130);
+    color: #a31ae3;
+}
+main{
+    background-color: #1abee3,#271ae3,#a31ae3;
 }
